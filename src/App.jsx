@@ -1,9 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import videos from "./data/videos";
 import NavbarComponent from "./components/NavbarComponent";
 import SidebarComponent from "./components/SidebarComponent";
 import VideoCard from "./components/VideoCard";
+import videos from "./data/videos";
+
 
 const App = () => {
   return (
