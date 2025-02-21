@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import NavbarComponent from "./components/NavbarComponent";
 import SidebarComponent from "./components/SidebarComponent";
 import VideoCard from "./components/VideoCard";
-import videos from "./data/videos";
+import videos from "../data/videos";
+
 
 
 const App = () => {
